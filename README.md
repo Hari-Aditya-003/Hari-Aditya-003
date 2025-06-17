@@ -43,7 +43,9 @@ Here’s what you’ll find in my pinned repositories:
 Feel free to collaborate, contribute, or reach out:
 
 <div>
-  <a href="mailto:hari.aditya003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+   <a href="mailto:hari.aditya003@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
   <a href="https://www.linkedin.com/in/aditya-hari-32767a243/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://hari-aditya-003.github.io/Hari.Playbook/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </div>
