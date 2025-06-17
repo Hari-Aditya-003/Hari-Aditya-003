@@ -48,7 +48,7 @@ Feel free to collaborate, contribute, or reach out:
 Feel free to collaborate, contribute, or just say hi! <br><br>
 
 [![Email](https://img.shields.io/badge/Gmail-hari.aditya003@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hari.aditya003@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-hari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/aditya-hari](https://www.linkedin.com/in/aditya-hari-32767a243/))
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)]([https://hariaditya.dev](https://hari-aditya-003.github.io/Hari.Playbook/))
 </div>
 
