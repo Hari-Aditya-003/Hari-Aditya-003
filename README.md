@@ -1,51 +1,57 @@
-## 👋 Hey, I'm Hari Aditya  
-🎮 Game Developer | 📊 Data Analyst | 💻 Web Developer | 📚 Lifelong Learner  
+# 👋 Hey, I'm Hari Aditya
 
-I'm a final-year IT student passionate about building real-world applications in gaming, AI, and analytics. I share my learning journey, build cool projects, and explore ethical hacking & cloud tech along the way!
+🎮 Game Developer | 💻 Web Developer | 📊 Machine Learning Enthusiast  
+Welcome to my creative corner on the internet where I bring ideas to life with code.
 
----
-
-### 🚀 Tech Stack
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Blender" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
-</div>
+I'm passionate about building interactive games, smart data-driven apps, and useful tools for real-world problems. I experiment, learn, and ship regularly 🚀
 
 ---
 
-### 🧠 I’m currently learning:
-- Multiplayer systems with Photon/Unity Netcode
-- ML model deployment with Streamlit & FastAPI
-- Data storytelling & dashboarding (Power BI / Tableau)
+## 💼 What I Do
+
+- 🎮 Develop 2D/3D games using **Unity** & **C#**
+- 📊 Analyze data & build ML models with **Python**, **Pandas**, **scikit-learn**
+- 🌐 Design responsive websites with **HTML**, **CSS**, **JavaScript**
+- 🛠️ Integrate backends using **Flask**, **FastAPI**, and databases like **MySQL**
 
 ---
 
-### 📈 GitHub Stats
+## 🔧 Tech Stack (Domain-wise)
 
-[![Hari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+| Domain             | Languages & Tools                                                                 |
+|--------------------|------------------------------------------------------------------------------------|
+| Game Development   | Unity, C#, Git, Visual Studio                                                     |
+| Web Development    | HTML, CSS, JavaScript, Tailwind, React (learning), Flask, GitHub Pages            |
+| Machine Learning   | Python, NumPy, Pandas, Scikit-learn, Jupyter, Matplotlib, Seaborn, FastAPI        |
+| Databases & Tools  | MySQL, SQLite, Postman, Google Colab, VS Code, Git                                |
 
 ---
 
-### 🌐 Let's Connect
+## ✨ Projects Sneak Peek
+
+Here’s what you’ll find in my pinned repositories:
+
+- 🎯 **AI-powered Games** – Game logic with intelligent behaviors
+- 📊 **Data Dashboards** – Real-time insights and reports using Python
+- 🧠 **ML Models** – From Iris prediction to Stock market simulation
+- 🌐 **Mini Web Apps** – Responsive tools and dynamic UI projects
+
+---
+
+## 🌍 Let's Connect
+
+Feel free to collaborate, contribute, or reach out:
 
 <div>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white"></a>
-  <a href="https://instagram.com/youranontechchannel"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:hari.aditya003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/aditya-hari-32767a243/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://hari-aditya-003.github.io/Hari.Playbook/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </div>
+
 
 ---
 
-### ✍️ Quote I Live By
+## 🧠 Quote I Live By
 
-> “Consistency beats talent when talent doesn't show up.”  
-> — Stay curious, stay building 🚀
+> “Great things are not done by impulse, but by a series of small things brought together.”  
+> — Keep Building. Keep Learning. Keep Sharing.
